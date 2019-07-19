@@ -75,11 +75,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AnalyseServiceImpl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AnalyseServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/service/impl/AnalyseServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="428">
+                <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -109,7 +121,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/package-info.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/package-info.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/web/package-info.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/test/java/com/nanfeng/poetry/TestHtmlUnit.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/common/Page.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/common/PoetryInfo.java" />
@@ -146,6 +157,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/prase/DataPagePrase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/Crawler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/web/WebController.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -183,7 +195,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="731" />
     <option name="width" value="642" />
     <option name="height" value="735" />
@@ -228,35 +240,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="poetryanalyse" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="poetryanalyse" type="462c0819:PsiDirectoryNode" />
-              <item name="analyse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="poetryanalyse" type="462c0819:PsiDirectoryNode" />
-              <item name="analyse" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="poetryanalyse" type="462c0819:PsiDirectoryNode" />
-              <item name="analyse" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -283,6 +266,9 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.nanfeng.poetryanalyse.analyse.entity" />
       <recent name="com.nanfeng.poetryanalyse.analyse" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\比特\Maven\workspace\poetry_analyse\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -412,12 +398,12 @@
       <workItem from="1563449264372" duration="549000" />
       <workItem from="1563468624080" duration="50000" />
       <workItem from="1563512518990" duration="4656000" />
-      <workItem from="1563531213859" duration="1321000" />
+      <workItem from="1563531213859" duration="2912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211941000" />
+    <option name="totallyTimeSpent" value="213532000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -430,6 +416,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
@@ -442,10 +429,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.39542484" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
       <window_info anchor="bottom" id="SonarLint" order="8" />
       <window_info anchor="right" id="Database" order="3" visible="true" weight="0.18305598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -555,16 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1159">
           <caret line="103" column="45" lean-forward="true" selection-start-line="103" selection-start-column="45" selection-end-line="103" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="16" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -796,6 +773,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="428">
+            <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
