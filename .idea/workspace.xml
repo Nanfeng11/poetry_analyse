@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d39e4baf-660c-4bb0-8438-c93ff5225df2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/dataSources/592d3475-3e6b-4119-9570-f9da9735a7f7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/0/9/0941e3e16dd02f4cee9944bb4ac6c3766144d66e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/0/d/0d1d8eb845184ed1c3e082e7c1ae109eab49dc0f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/1/f/1fa1885a41d47f745242887c379fb93edb58f609" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/2/3/2399e79f752dab147cad0c2de3f03798040abfe8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/4/d/4d3bce795e6b64cbecbb52810fccae2533ea2bb3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/5/e/5e26cebdbe930f7d34e589a48574d2336a2ac4fb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/6/5/650b17c7119b09fe71a4eda4e22d8d97c37a8831" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/7/1/716484a198606da2bd8cb906f460992523cac8af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/7/b/7b484fcff25f253d4d2d01c7555de2e651bf443e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/8/7/871de3df4f1b0bb5783e1a7a78631dabf69a3b3b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/9/3/9332c15f0e1abb06536e9643545525840bc072c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/9/3/93a7f9fcdf2cdbf94b7e4edaac18241e9fd663ae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/9/8/9842bbd6ad7714ae992b97fbf03bc334d4fb91a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/a/7/a7b2b61dbf42d0c4dc30720226418d55ebc83a67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/b/c/bc72c66a6b2e357961866552b6c858c569097461" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/c/2/c270d4fc6ffbeb841e423cb5ab3bc1ddb248eed9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/c/a/ca36a9fc0fae212f78bd2cceaa8d4c527847122d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/c/c/cc22b60a7d26a5e1defdc563915cce7881fe7e3f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/c/e/ce1d61cbf2f62118bc81aab6de5d50b29bee30b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/d/e/de1cc2edd7e4c8b6d0302f9579d89f3662561b53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/e/b/eb89e2ff8b8093342df82984fedd09fe8ea2878b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/f/4/f488879b5416f879499a496c1969dcab9ac7b351" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/f/4/f4abd11e66c6eaf3499a07381389344a03057adc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/f/8/f8f12064932795546dedc0488bbe84662eac9a11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/f/e/fe89e5b26d41514a896c530861786b805a28c101" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/images/authorCount.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/images/clipboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/images/wordCloud.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/poetry_analyse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/PoetryAnalyseApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/analyse/dao/AnalyseDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/analyse/dao/impl/AnalyseDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/analyse/entity/PoetryInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/analyse/model/AuthorCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/analyse/model/WordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/analyse/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/analyse/service/AnalyseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/analyse/service/impl/AnalyseServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/config/ConfigProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/config/ObjectFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/config/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/crawler/Crawler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/crawler/common/DataSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/crawler/common/Page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/crawler/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/crawler/pipeline/ConsolePipeline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/crawler/pipeline/DatabasePipeline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/crawler/pipeline/Pipeline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/crawler/prase/DataPagePrase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/crawler/prase/DocumentPrase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/crawler/prase/Prase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/web/WebController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/java/com/nanfeng/poetryanalyse/web/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/resources/database.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/resources/static/assets/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/resources/static/assets/js/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/resources/static/assets/js/echarts-gl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/resources/static/assets/js/echarts-wordcloud.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/resources/static/assets/js/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/resources/static/assets/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/resources/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/src/test/java/com/nanfeng/poetry/TestHtmlUnit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/PoetryAnalyseApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/analyse/dao/AnalyseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/analyse/dao/impl/AnalyseDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/analyse/entity/PoetryInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/analyse/model/AuthorCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/analyse/model/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/analyse/service/AnalyseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/analyse/service/impl/AnalyseServiceImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/analyse/service/impl/AnalyseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/config/ConfigProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/config/ObjectFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/crawler/Crawler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/crawler/Crawler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/crawler/common/DataSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/crawler/common/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/crawler/pipeline/ConsolePipeline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/crawler/pipeline/DatabasePipeline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/crawler/pipeline/Pipeline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/crawler/prase/DataPagePrase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/crawler/prase/DocumentPrase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/crawler/prase/Prase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/web/WebController$JSONResponseTransformer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/com/nanfeng/poetryanalyse/web/WebController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/database.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/static/assets/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/static/assets/js/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/static/assets/js/echarts-gl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/static/assets/js/echarts-wordcloud.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/static/assets/js/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/static/assets/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/classes/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry_analyse/target/test-classes/com/nanfeng/poetry/TestHtmlUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/Crawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/Crawler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/pipeline/DatabasePipeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/pipeline/DatabasePipeline.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="chat_room@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="chat_room@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="chat_room@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="poetry: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="7c19e6a8-c21f-4a9d-82b8-28c209da5c8c" />
+    </checked>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ObjectFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/config/ObjectFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1577">
+              <caret line="103" column="23" lean-forward="true" selection-start-line="103" selection-start-column="23" selection-end-line="103" selection-end-column="23" />
+              <folding>
+                <element signature="e#3821#3822#0" expanded="true" />
+                <element signature="e#3852#3853#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnalyseServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/service/impl/AnalyseServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnalyseService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/service/AnalyseService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnalyseDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/dao/AnalyseDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnalyseDaoImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/dao/impl/AnalyseDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="41" column="52" lean-forward="true" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+              <folding>
+                <element signature="e#784#785#0" expanded="true" />
+                <element signature="e#828#829#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PoetryInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/entity/PoetryInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/extract/DatabasePipeline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/parse/DataPagePrase.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/fdd5fec5-61d0-4358-bd9c-5342a4c49359/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/000edde6-d644-4908-85c1-953b27c2a301/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/PoetryInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/config/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/web/package-info.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/nanfeng/poetry/TestHtmlUnit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/common/Page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/common/PoetryInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/model/AuthorCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/dao/AnalyseDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/service/AnalyseService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/assets/js/api.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/pipeline/Pipeline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/entity/PoetryInfo.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/43fcac30-e431-45ca-ba7d-b66624db304e/console.sql" />
+        <option value="5700f329-dc6f-40bc-8d02-a34a496e5928/schema/poetry/table/poetry_info.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/95365104-e3ae-43bd-a299-75ba87f51fdc/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/PoetryAnalyseApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/config/ConfigProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/common/DataSet.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/database.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/00240752-6def-4a5a-aba0-239dd912f830/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ed020b7b-a91e-4fc1-ba0e-daf71851675b/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/pipeline/ConsolePipeline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/model/WordCount.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/parse/Parse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/parse/DataPageParse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/parse/DocumentParse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/prase/Prase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/prase/DocumentPrase.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/592d3475-3e6b-4119-9570-f9da9735a7f7/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/dao/impl/AnalyseDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/service/impl/AnalyseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/config/ObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/web/WebController.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/prase/DataPagePrase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/pipeline/DatabasePipeline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/Crawler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/QMDownload/SoftMgr/apache-maven-3.5.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="poetry_analyse" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="poetry_analyse" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="731" />
+    <option name="width" value="642" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="poetryanalyse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="poetryanalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="analyse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="poetryanalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="poetryanalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="poetryanalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="poetryanalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="poetryanalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poetry_analyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poetry_analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="poetryanalyse" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nanfeng.poetryanalyse.analyse.entity" />
+      <recent name="com.nanfeng.poetryanalyse.analyse" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\比特\Maven\workspace\poetry_analyse\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PoetryAnalyseApplication">
+    <configuration name="AnalyseServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nanfeng.poetryanalyse.analyse.service.impl.AnalyseServiceImpl" />
+      <module name="poetry_analyse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nanfeng.poetryanalyse.analyse.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PoetryAnalyseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nanfeng.poetryanalyse.PoetryAnalyseApplication" />
+      <module name="poetry_analyse" />
+      <option name="PROGRAM_PARAMETERS" value="run-crawler" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nanfeng.poetryanalyse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.PoetryAnalyseApplication" />
+      <item itemvalue="Application.AnalyseServiceImpl" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PoetryAnalyseApplication" />
+        <item itemvalue="Application.AnalyseServiceImpl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d39e4baf-660c-4bb0-8438-c93ff5225df2" name="Default" comment="" />
+      <created>1552206814800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552206814800</updated>
+      <workItem from="1552206823550" duration="4196000" />
+      <workItem from="1552212501362" duration="128000" />
+      <workItem from="1552523202106" duration="1918000" />
+      <workItem from="1552784991087" duration="31514000" />
+      <workItem from="1552906588839" duration="12808000" />
+      <workItem from="1552992803125" duration="11950000" />
+      <workItem from="1553010280766" duration="52000" />
+      <workItem from="1553304049735" duration="5850000" />
+      <workItem from="1553406577362" duration="346000" />
+      <workItem from="1562377632539" duration="23171000" />
+      <workItem from="1562423774027" duration="2297000" />
+      <workItem from="1562460146620" duration="26726000" />
+      <workItem from="1562551661422" duration="4925000" />
+      <workItem from="1562672040477" duration="1199000" />
+      <workItem from="1563019292207" duration="1256000" />
+      <workItem from="1563079124366" duration="369000" />
+      <workItem from="1563079659111" duration="2014000" />
+      <workItem from="1563086515856" duration="741000" />
+      <workItem from="1563089607696" duration="573000" />
+      <workItem from="1563095004453" duration="1166000" />
+      <workItem from="1563181410139" duration="13989000" />
+      <workItem from="1563264995637" duration="5311000" />
+      <workItem from="1563320426356" duration="5830000" />
+      <workItem from="1563351465023" duration="10383000" />
+      <workItem from="1563368873533" duration="12671000" />
+      <workItem from="1563406146777" duration="23982000" />
+      <workItem from="1563449264372" duration="549000" />
+      <workItem from="1563468624080" duration="50000" />
+      <workItem from="1563512518990" duration="4656000" />
+      <workItem from="1563531213859" duration="4766000" />
+      <workItem from="1564214342391" duration="1830000" />
+      <workItem from="1566960824156" duration="14474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="231690000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32843137" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.39869282" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.22239032" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.31587562" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28441754" />
+      <window_info anchor="bottom" id="SonarLint" order="8" />
+      <window_info anchor="right" id="Database" order="3" weight="0.21709532" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39966834" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.5499182" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.753268" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40359476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32843137" />
+      <window_info anchor="bottom" id="SonarLint" order="13" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32980332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
+      <window_info anchor="right" id="Database" order="6" weight="0.21785174" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/parse/Prase.java" />
+    <entry file="das://f9e8e5be-dd48-432a-ba8f-e584632500bc/schema/poetry/table/poetry_info" />
+    <entry file="das://f9e8e5be-dd48-432a-ba8f-e584632500bc/schema/poetry/table/poetry_info" />
+    <entry file="das://f9e8e5be-dd48-432a-ba8f-e584632500bc/schema/poetry/table/poetry_info" />
+    <entry file="das://f9e8e5be-dd48-432a-ba8f-e584632500bc/schema/poetry/table/poetry_info" />
+    <entry file="das://f9e8e5be-dd48-432a-ba8f-e584632500bc/schema/poetry/table/poetry_info" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://f9e8e5be-dd48-432a-ba8f-e584632500bc/schema/poetry/table/poetry_info" />
+    <entry file="das://f9e8e5be-dd48-432a-ba8f-e584632500bc/schema/poetry/table/poetry_info" />
+    <entry file="das://f9e8e5be-dd48-432a-ba8f-e584632500bc/schema/poetry/table/poetry_info" />
+    <entry file="das://f9e8e5be-dd48-432a-ba8f-e584632500bc/schema/poetry/table/poetry_info" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/assets/js/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="103" column="45" lean-forward="true" selection-start-line="103" selection-start-column="45" selection-end-line="103" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://592d3475-3e6b-4119-9570-f9da9735a7f7/schema/poetry/table/poetry_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://592d3475-3e6b-4119-9570-f9da9735a7f7/schema/poetry/table/poetry_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://592d3475-3e6b-4119-9570-f9da9735a7f7/schema/poetry/table/poetry_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://592d3475-3e6b-4119-9570-f9da9735a7f7/schema/poetry/table/poetry_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://592d3475-3e6b-4119-9570-f9da9735a7f7/schema/poetry/table/poetry_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://592d3475-3e6b-4119-9570-f9da9735a7f7/schema/poetry/table/poetry_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://592d3475-3e6b-4119-9570-f9da9735a7f7/schema/poetry/table/poetry_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/592d3475-3e6b-4119-9570-f9da9735a7f7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://592d3475-3e6b-4119-9570-f9da9735a7f7/schema/poetry/table/poetry_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://592d3475-3e6b-4119-9570-f9da9735a7f7/schema/poetry/table/poetry_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="518">
+            <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/database.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="8" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://7c19e6a8-c21f-4a9d-82b8-28c209da5c8c/schema/poetry/table/poetry_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7c19e6a8-c21f-4a9d-82b8-28c209da5c8c/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar!/org/slf4j/LoggerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/web/WebController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="67" column="11" lean-forward="true" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/sourceforge/htmlunit/htmlunit/2.18/htmlunit-2.18.jar!/com/gargoylesoftware/htmlunit/html/HtmlPage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/prase/Prase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/common/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+          <folding>
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#828#829#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/prase/DataPagePrase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/prase/DocumentPrase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/pipeline/DatabasePipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/pipeline/Pipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/common/DataSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+          <folding>
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/pipeline/ConsolePipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/crawler/Crawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="168" column="29" selection-start-line="168" selection-start-column="29" selection-end-line="168" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/PoetryAnalyseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/config/ConfigProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-178">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="130" column="27" lean-forward="true" selection-start-line="130" selection-start-column="27" selection-end-line="130" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/config/ObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="103" column="23" lean-forward="true" selection-start-line="103" selection-start-column="23" selection-end-line="103" selection-end-column="23" />
+          <folding>
+            <element signature="e#3821#3822#0" expanded="true" />
+            <element signature="e#3852#3853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/model/AuthorCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/model/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/entity/PoetryInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/service/impl/AnalyseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/dao/AnalyseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/service/AnalyseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nanfeng/poetryanalyse/analyse/dao/impl/AnalyseDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="41" column="52" lean-forward="true" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+          <folding>
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#828#829#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>poetry_analyse</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:1.1.13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

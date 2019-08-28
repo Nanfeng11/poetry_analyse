@@ -29,7 +29,7 @@ public class DatabasePipeline implements Pipeline {
     @Override
     public void pipeline(final Page page) {
 
-        //配置里面有更多的数据，清洗需要几个取几个即可，不需要在解析里面一次性处理完
+        //page里面有更多的数据，清洗需要几个取几个即可，不需要在解析里面一次性处理完
         String title = (String) page.getDataSet().getData("title");
         String dynasty = (String) page.getDataSet().getData("dynasty");
         String author = (String) page.getDataSet().getData("author");

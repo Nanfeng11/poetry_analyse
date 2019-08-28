@@ -30,6 +30,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  */
 public class Crawler {
 
+    //打印日志信息
     private static final Logger logger = LoggerFactory.getLogger(Crawler.class);
 
     /**
