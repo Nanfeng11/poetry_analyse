@@ -36,7 +36,7 @@ public class DatabasePipeline implements Pipeline {
         String content = (String) page.getDataSet().getData("content");
 
         //数据库(修改对象）
-        String sql = "insert into poetry_info (title,dynasty,author,content) values (?,?,?,?)";
+        String sql = "insert ignore into poetry_info (title,dynasty,author,content) values (?,?,?,?)";
         //获取连接   //预编译命令
         try (Connection connection = dataSource.getConnection();
              PreparedStatement statement = connection.prepareStatement(sql)

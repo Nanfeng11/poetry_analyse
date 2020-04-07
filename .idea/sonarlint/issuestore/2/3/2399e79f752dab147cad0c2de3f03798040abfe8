@@ -1,6 +1,6 @@
 
-{
-squid:S135G"YReduce the total number of break and continue statements in this loop to use at most one.(…¬å¿ýÿÿÿÿ8§Áª À-
-nsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(¨ÌÓ¸ùÿÿÿÿ8§Áª À-
-Fsquid:S1604%"(Make this anonymous inner class a lambda(È¶Þ8§Áª À-
-nsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(»ž•ûÿÿÿÿ8§Áª À-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»ž•ûÿÿÿÿ8¢¥”¼Í-
+y
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(…¬å¿ýÿÿÿÿ8¢¥”¼Í-
+Dsquid:S1604"(Make this anonymous inner class a lambda(È¶Þ8¢¥”¼Í-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨ÌÓ¸ùÿÿÿÿ8¢¥”¼Í-
